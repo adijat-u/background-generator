@@ -73,7 +73,7 @@ Redirect_to("category.php");
   <div style="height:10px; background:#27aae1;"></div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a href="#" class="navbar-brand"> JAZEBAKRAM.COM</a>
+      <a href="#" class="navbar-brand"> ADIJATBUHARI.COM</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarcollapseCMS">
         <span class="navbar-toggler-icon"></span>
       </button>
