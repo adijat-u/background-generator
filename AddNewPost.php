@@ -83,14 +83,14 @@ Redirect_to("category.php");
   <div style="height:10px; background:#27aae1;"></div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a href="#" class="navbar-brand"> JAZEBAKRAM.COM</a>
+      <a href="#" class="navbar-brand"> Adijatbuhari.COM</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarcollapseCMS">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarcollapseCMS">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a href="MyProfile.php" class="nav-link"> <i class="fas fa-user text-success"></i> My Profile</a>
+          <a href="MyProfile.php" class="nav-link"> <i class="fas fa-user text-success"></i>  your sProfile</a>
         </li>
         <li class="nav-item">
           <a href="Dashboard.php" class="nav-link">Dashboard</a>
